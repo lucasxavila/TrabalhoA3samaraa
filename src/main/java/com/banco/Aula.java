@@ -1,4 +1,4 @@
-package com.samaratrabalho;
+package com.banco;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

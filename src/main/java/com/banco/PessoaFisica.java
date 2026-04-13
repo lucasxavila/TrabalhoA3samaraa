@@ -1,4 +1,4 @@
-package com.samaratrabalho;
+package com.banco;
 
 public class PessoaFisica extends Pessoa {
     private String cpf;

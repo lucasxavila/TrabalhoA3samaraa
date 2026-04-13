@@ -1,4 +1,4 @@
-package com.samaratrabalho;
+package com.banco;
 
 /**
  * Define o contrato para todas as operações bancárias.

@@ -1,4 +1,4 @@
-package com.samaratrabalho;
+package com.banco;
 
 public class Agencia {
     private int numero;

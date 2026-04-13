@@ -3,6 +3,12 @@ package com.samaratrabalho;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+
+import com.banco.Agencia;
+import com.banco.Conta;
+import com.banco.ContaCorrente;
+import com.banco.PessoaFisica;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 /**

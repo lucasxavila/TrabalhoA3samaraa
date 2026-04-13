@@ -1,4 +1,4 @@
-package com.samaratrabalho;
+package com.banco;
 
 public abstract class Conta implements OperacaoBancaria {
     private int numero;

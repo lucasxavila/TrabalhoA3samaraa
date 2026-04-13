@@ -1,4 +1,4 @@
-package com.samaratrabalho;
+package com.banco;
 
 public class ContaPoupanca extends Conta{
     private double rendimento;
